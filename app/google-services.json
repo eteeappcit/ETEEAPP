@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "840209226130",
+    "firebase_url": "https://eteapp-cit.firebaseio.com",
+    "project_id": "eteapp-cit",
+    "storage_bucket": "eteapp-cit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840209226130:android:264b9604aa67a12f",
+        "android_client_info": {
+          "package_name": "com.eteapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840209226130-ogrtib852dafnh50pcvi2c99faslsaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOjwNgSc8n9jnvX_uNYa6upbeZ2710kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840209226130:android:5b472667e8e6221b",
+        "android_client_info": {
+          "package_name": "eteeapp.android.com.eteeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840209226130-45kb21bqf5kbr7b8pmj1q95tca92eq2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eteeapp.android.com.eteeapp",
+            "certificate_hash": "4da1235265a9502ceaf7b12dfc849836ff97cfe7"
+          }
+        },
+        {
+          "client_id": "840209226130-434gtv5mpof41seajafo8a55nbh0sks8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eteeapp.android.com.eteeapp",
+            "certificate_hash": "4f2767fb5499cb998d66a71529fcd2502a59fb00"
+          }
+        },
+        {
+          "client_id": "840209226130-diu3bmdbiqsvfkeiftfah3diok2992d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eteeapp.android.com.eteeapp",
+            "certificate_hash": "af2770bd83e77210ad788001ad1af418d9bf7a3b"
+          }
+        },
+        {
+          "client_id": "840209226130-ogrtib852dafnh50pcvi2c99faslsaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOjwNgSc8n9jnvX_uNYa6upbeZ2710kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840209226130-ogrtib852dafnh50pcvi2c99faslsaks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840209226130:android:7064b8a50596cb38",
+        "android_client_info": {
+          "package_name": "eteeapp.android.com.eteeapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840209226130-ogrtib852dafnh50pcvi2c99faslsaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOjwNgSc8n9jnvX_uNYa6upbeZ2710kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
